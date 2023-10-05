@@ -73,8 +73,7 @@ int main() {
 
         data.push_back(row);
 
-        // Checking for Conditions
-
+        // CHECKING FOR CONDITIONS
 
         // Condition - 1, where if an employee has worked for 7 days consecutively.
         currentEmployee = data[i][7]; // Assuming the employee name is in the 8th column (0-based index)
@@ -87,8 +86,6 @@ int main() {
         } else {
             consecutiveDays = 1; // Reset consecutive days count for a new employee
         }
-        // previousEmployee = currentEmployee;
-
 
         // Condition - 2, where an employee has less than 10 hours and greater than 1 hour of time between shifts
         if (i > 0 && currentEmployee == previousEmployee) {
@@ -98,7 +95,6 @@ int main() {
                 cerr << currentEmployee << " has less than 10 hours of time between shifts but greater than 1 hour." << endl;
             }
         }
-
 
         // Condition - 3, who has worked more than 14 hours in one shift
         string timecard = data[i][4];
@@ -112,19 +108,15 @@ int main() {
         
         if(tsecs > 50400) {
             cerr << currentEmployee << " has worked for more than 14 hours in a single shift." << endl;
-            // hours = 0;
-            // minutes = 0;
-            // delimeters ='0';
-        } else {
-            // hours = 0;
-            // minutes = 0;
-            // delimeters ='0';
-        }
+        } 
+        
         i++;
         previousEmployee = currentEmployee;
+        
     }
-
+    
     // Close the file
     file.close();
+    
     return 0;
 }
