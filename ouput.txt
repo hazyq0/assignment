@@ -3,23 +3,34 @@
 "Sparks has worked for more than 7 consecutive days.
 "Sparks has worked for more than 7 consecutive days.
 "GaXCes has worked for more than 7 consecutive days.
+"CaMaXaWE has less than 10 hours of time between shifts but greater than 1 hour.
 "CaMaXaWE has worked for more than 7 consecutive days.
+"CaMaXaWE has less than 10 hours of time between shifts but greater than 1 hour.
 "CaMaXaWE has worked for more than 7 consecutive days.
 "Arias has worked for more than 7 consecutive days.
+"Arias has less than 10 hours of time between shifts but greater than 1 hour.
+"Arias has less than 10 hours of time between shifts but greater than 1 hour.
 "Arias has worked for more than 7 consecutive days.
+"Arias has less than 10 hours of time between shifts but greater than 1 hour.
 "Merrazas has worked for more than 7 consecutive days.
 "GarWes has worked for more than 7 consecutive days.
 "GarWes has worked for more than 7 consecutive days.
 "FeXix has worked for more than 7 consecutive days.
+"FeXix has less than 10 hours of time between shifts but greater than 1 hour.
 "FeXix has worked for more than 7 consecutive days.
+"FeXix has less than 10 hours of time between shifts but greater than 1 hour.
+"FeXix has less than 10 hours of time between shifts but greater than 1 hour.
 "HerCEsiXXE has worked for more than 7 consecutive days.
 "HerCEsiXXE has worked for more than 7 consecutive days.
 "Xee has worked for more than 7 consecutive days.
 "Xee has worked for more than 7 consecutive days.
+"Xee has less than 10 hours of time between shifts but greater than 1 hour.
+"Xee has less than 10 hours of time between shifts but greater than 1 hour.
 "Xee has worked for more than 7 consecutive days.
 "GaWks has worked for more than 7 consecutive days.
 "GaWks has worked for more than 7 consecutive days.
 "MAake has worked for more than 7 consecutive days.
+"MAake has less than 10 hours of time between shifts but greater than 1 hour.
 "SiWgh has worked for more than 7 consecutive days.
 "SiWgh has worked for more than 7 consecutive days.
 "DiWh has worked for more than 7 consecutive days.
@@ -27,8 +38,9 @@
 "ArEsMigAi has worked for more than 7 consecutive days.
 "De Xa Cerda has worked for more than 7 consecutive days.
 "De Xa Cerda has worked for more than 7 consecutive days.
-"De Xa Cerda has less than 10 hours of time between shifts but greater than 1 hour.
+"REdrigAez has less than 10 hours of time between shifts but greater than 1 hour.
 "REdrigAez has worked for more than 7 consecutive days.
+"REdrigAez has less than 10 hours of time between shifts but greater than 1 hour.
 "MraW has worked for more than 7 consecutive days.
 "MraW has worked for more than 7 consecutive days.
 "MAcker has worked for more than 7 consecutive days.
@@ -42,7 +54,11 @@
 "ErMiz has worked for more than 7 consecutive days.
 "ErMiz has worked for more than 7 consecutive days.
 "ErEpeza has worked for more than 7 consecutive days.
+"ErEpeza has less than 10 hours of time between shifts but greater than 1 hour.
+"ErEpeza has less than 10 hours of time between shifts but greater than 1 hour.
 "VasqAez has worked for more than 7 consecutive days.
+"VasqAez has less than 10 hours of time between shifts but greater than 1 hour.
+"VasqAez has less than 10 hours of time between shifts but greater than 1 hour.
 "VasqAez has worked for more than 7 consecutive days.
 "SavaWg has worked for more than 7 consecutive days.
 "REdrigAez has worked for more than 7 consecutive days.
@@ -51,7 +67,9 @@
 "EasMCaW has worked for more than 7 consecutive days.
 "SiWgh has worked for more than 7 consecutive days.
 "SiWgh has worked for more than 7 consecutive days.
+"SiWgh has less than 10 hours of time between shifts but greater than 1 hour.
 "SiWgh has worked for more than 7 consecutive days.
+"SiWgh has less than 10 hours of time between shifts but greater than 1 hour.
 "SiWgXeMEW has worked for more than 7 consecutive days.
 "SiWgXeMEW has worked for more than 7 consecutive days.
 "PaXaciE has worked for more than 7 consecutive days.
@@ -60,8 +78,10 @@
 "ErEzcE has worked for more than 7 consecutive days.
 "CercadE has worked for more than 7 consecutive days.
 "CercadE has worked for more than 7 consecutive days.
+"CEreira Jr has less than 10 hours of time between shifts but greater than 1 hour.
 "CEreira Jr has worked for more than 7 consecutive days.
 "CEreira Jr has worked for more than 7 consecutive days.
+"CEreira Jr has less than 10 hours of time between shifts but greater than 1 hour.
 "AXvarez has worked for more than 7 consecutive days.
 "AXvarez has worked for more than 7 consecutive days.
 "PaAXE has worked for more than 7 consecutive days.
@@ -73,9 +93,11 @@
 "PerkiWs has worked for more than 7 consecutive days.
 "GAeWdia has worked for more than 7 consecutive days.
 "GAeWdia has worked for more than 7 consecutive days.
+"GAeWdia has less than 10 hours of time between shifts but greater than 1 hour.
 "GAeWdia has worked for more than 7 consecutive days.
 "ZaCEra has worked for more than 7 consecutive days.
 "ArevaXE has worked for more than 7 consecutive days.
+"ArevaXE has less than 10 hours of time between shifts but greater than 1 hour.
 "ArevaXE has worked for more than 7 consecutive days.
 "CErMes has worked for more than 7 consecutive days.
 "CErMes has worked for more than 7 consecutive days.
@@ -87,6 +109,7 @@
 "Caxies has worked for more than 7 consecutive days.
 "CcRAWWeX has worked for more than 7 consecutive days.
 "CcRAWWeX has worked for more than 7 consecutive days.
+"CcRAWWeX has less than 10 hours of time between shifts but greater than 1 hour.
 "CEMMa has worked for more than 7 consecutive days.
 "CEMMa has worked for more than 7 consecutive days.
 "Rivera AXcaWMar has worked for more than 7 consecutive days.
@@ -96,6 +119,7 @@
 "ChaCErE has worked for more than 7 consecutive days.
 "WiXXiaCs has worked for more than 7 consecutive days.
 "WiXXiaCs has worked for more than 7 consecutive days.
+"WiXXiaCs has less than 10 hours of time between shifts but greater than 1 hour.
 "GrACfieXd has worked for more than 7 consecutive days.
 "GrACfieXd has worked for more than 7 consecutive days.
 "Perez has worked for more than 7 consecutive days.
@@ -108,18 +132,26 @@
 "XEpez WAWez has worked for more than 7 consecutive days.
 "DeXgadiXXE REdarMe has worked for more than 7 consecutive days.
 "DeXgadiXXE REdarMe has worked for more than 14 hours in a single shift.
+"DeXgadiXXE REdarMe has less than 10 hours of time between shifts but greater than 1 hour.
 "DeXgadiXXE REdarMe has worked for more than 7 consecutive days.
 "CeciWa has worked for more than 7 consecutive days.
 "FaGiaW CiraWda has worked for more than 7 consecutive days.
 "HaCiXMEW has worked for more than 7 consecutive days.
+"HaCiXMEW has less than 10 hours of time between shifts but greater than 1 hour.
+"HAWMer has less than 10 hours of time between shifts but greater than 1 hour.
 "AXcEcer has worked for more than 7 consecutive days.
+"AXcEcer has less than 10 hours of time between shifts but greater than 1 hour.
+"AXcEcer has less than 10 hours of time between shifts but greater than 1 hour.
+"AXcEcer has less than 10 hours of time between shifts but greater than 1 hour.
 "AXcEcer has worked for more than 7 consecutive days.
 "IWGEAa has worked for more than 7 consecutive days.
+"IWGEAa has less than 10 hours of time between shifts but greater than 1 hour.
 "CesiWa CEreWE has worked for more than 7 consecutive days.
 "HEGGie ErMega has worked for more than 7 consecutive days.
 "REdrigAez has worked for more than 7 consecutive days.
 "REdrigAez has worked for more than 7 consecutive days.
 "REdrigAez has worked for more than 7 consecutive days.
+"REdrigAez has less than 10 hours of time between shifts but greater than 1 hour.
 "Diaz GaXvez has worked for more than 7 consecutive days.
 "Diaz GaXvez has worked for more than 7 consecutive days.
 "EsMrada has worked for more than 7 consecutive days.
@@ -137,7 +169,6 @@
 "XariEs XaWdaverde has worked for more than 7 consecutive days.
 "VaXderraCa CasMiXXE has worked for more than 7 consecutive days.
 "SaWchez has worked for more than 7 consecutive days.
-"SaWchez has less than 10 hours of time between shifts but greater than 1 hour.
 "VasqAez has worked for more than 7 consecutive days.
 "GAMierrez has worked for more than 7 consecutive days.
 "HerWaWdez SaWchez has worked for more than 7 consecutive days.
