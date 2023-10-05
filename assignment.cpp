@@ -87,7 +87,7 @@ int main() {
         } else {
             consecutiveDays = 1; // Reset consecutive days count for a new employee
         }
-        previousEmployee = currentEmployee;
+        // previousEmployee = currentEmployee;
 
 
         // Condition - 2, where an employee has less than 10 hours and greater than 1 hour of time between shifts
@@ -121,6 +121,7 @@ int main() {
             // delimeters ='0';
         }
         i++;
+        previousEmployee = currentEmployee;
     }
 
     // Close the file
