@@ -9,7 +9,7 @@
 
 using namespace std;
 
-// A boolean function for condition 3 to calculate time difference
+// A boolean function for condition 2 to calculate time difference
 bool isTimeDifferenceValid(const std::string& timeStr1, const std::string& timeStr2) {
     // Define the format of the time strings
     string format = "%m/%d/%Y %H:%M:%S";
