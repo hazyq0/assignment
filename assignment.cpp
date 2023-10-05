@@ -92,8 +92,8 @@ int main() {
 
         // Condition - 2, where an employee has less than 10 hours and greater than 1 hour of time between shifts
         if (i > 0 && currentEmployee == previousEmployee) {
-            shiftStarted = data[i - 1][3];
-            shiftEnded = data[i][2];
+            shiftStarted = data[i][2];
+            shiftEnded = data[i-1][3];
             if (isTimeDifferenceValid(shiftEnded, shiftStarted)) {
                 cerr << currentEmployee << " has less than 10 hours of time between shifts but greater than 1 hour." << endl;
             }
