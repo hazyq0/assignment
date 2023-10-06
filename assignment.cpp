@@ -10,7 +10,7 @@
 using namespace std;
 
 // A boolean function for condition 2 to calculate time difference
-bool isTimeDifferenceValid(const std::string& timeStr1, const std::string& timeStr2) {
+bool isTimeDifferenceValid(const string& timeStr1, const string& timeStr2) {
     // Define the format of the time strings
     string format = "%m/%d/%Y %H:%M:%S";
 
@@ -73,28 +73,32 @@ int main() {
 
         data.push_back(row);
 
-        // CHECKING FOR CONDITIONS
+        // CHECKING FOR CONDITIONS                                                                                                                  
 
         // Condition - 1, where if an employee has worked for 7 days consecutively.
         currentEmployee = data[i][7]; // Assuming the employee name is in the 8th column (0-based index)
         if (currentEmployee == previousEmployee) {
             consecutiveDays++;
             if (consecutiveDays > 7) {
-                cerr << currentEmployee << " has worked for more than 7 consecutive days." << endl;
+                cerr << "Position ID: " << data[i][0] << " " << currentEmployee << " has worked for more than 7 consecutive days." << endl;
                 consecutiveDays = 1;
             }
         } else {
             consecutiveDays = 1; // Reset consecutive days count for a new employee
         }
+        // previousEmployee = currentEmployee;
+
 
         // Condition - 2, where an employee has less than 10 hours and greater than 1 hour of time between shifts
         if (i > 0 && currentEmployee == previousEmployee) {
-            shiftStarted = data[i][2];
-            shiftEnded = data[i-1][3];
+            shiftStarted = data[i][2]; // when the current shift is started 
+            shiftEnded = data[i-1][3]; // when the last shift was ended
+            
             if (isTimeDifferenceValid(shiftEnded, shiftStarted)) {
-                cerr << currentEmployee << " has less than 10 hours of time between shifts but greater than 1 hour." << endl;
+                cerr << "Position ID: " << data[i][0] << " " << currentEmployee << " has less than 10 hours of time between shifts but greater than 1 hour." << endl;
             }
         }
+
 
         // Condition - 3, who has worked more than 14 hours in one shift
         string timecard = data[i][4];
@@ -107,16 +111,16 @@ int main() {
         int tsecs = (hours * 3600) + (minutes * 60); // Calculating total seconds
         
         if(tsecs > 50400) {
-            cerr << currentEmployee << " has worked for more than 14 hours in a single shift." << endl;
+            cerr << "Position ID: " << data[i][0] << " " << currentEmployee << " has worked for more than 14 hours in a single shift." << endl;
         } 
-        
+
         i++;
         previousEmployee = currentEmployee;
-        
+
     }
-    
+
     // Close the file
     file.close();
-    
+
     return 0;
 }
