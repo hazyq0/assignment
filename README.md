@@ -1,2 +1,2 @@
-# assignment
-Bluejay Delivery, Software Development internship assignment.
+
+Bluejay Delivery, Software Development internship.
