@@ -7,7 +7,7 @@
 #include <iomanip>
 #include <ctime>
 #include <algorithm> // For transform function
-#include <cmath>     // For mathematical functions
+#include <cmath> // For mathematical functions
 
 using namespace std;
 
