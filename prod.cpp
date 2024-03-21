@@ -1,11 +1,4 @@
-//  
-//    Binary File Digital Signature Remover App
-//    "Utility to remove digital code signature from binary PE files in Windows."
-//    Copyright (c) 2021 www.dennisbabkin.com
-//    
-//        https://dennisbabkin.com/sigremover
-//
-//        https://dennisbabkin.com/blog/?i=AAA10400
+
 //
 //    Licensed under the Apache License, Version 2.0 (the "License");
 //    you may not use this file except in compliance with the License.
